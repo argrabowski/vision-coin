@@ -2,6 +2,8 @@
 
 This project utilizes OpenCV to detect and recognize coins in an input image. The script employs the SIFT feature detector, FLANN matcher, and Hough Circle transform to achieve accurate coin detection and recognition.
 
+https://github.com/argrabowski/vision-coin/assets/64287065/31dee19e-b15a-445f-bbc8-d8b497c516b9
+
 ## Dependencies
 
 - Python 3.10
